@@ -1,16 +1,14 @@
-## Hi there 👋
+# 个人介绍
+大家好！我是 Xiranya（Gitee 账号：litinyana），一个“满怀热爱，奔赴山海”的技术追光者，始终相信代码的价值在于解决实际问题、让生活更高效。
 
-<!--
-**Xiranwuxianxi/Xiranwuxianxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 技术与热爱
+擅长 Python、Java、C、SQL、JavaScript 等编程语言，既着迷于后端逻辑的严谨，也享受前端交互的灵动，乐于在全栈开发的探索中打磨技能。
 
-Here are some ideas to get you started:
+### 我的开发日常
+习惯把生活需求变成代码动力——实习时怕忘事就自己写代办工具，觉得重复搭项目繁琐就做专属前端模板，想便捷传输文件就开发跨设备分享应用。闲暇时还会通过构建小型系统复习基础，在自主实践中感受编程的乐趣与成就感。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 未来期许
+始终保持对技术的好奇与热忱，在解决实际问题中积累成长，也期待能和更多志同道合的开发者交流学习，一起在代码世界里奔赴更远的山海～
+
+
+我的[gitee](https://gitee.com/litinyana)
